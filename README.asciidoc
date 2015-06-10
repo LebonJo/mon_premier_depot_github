@@ -23,3 +23,5 @@ This is a trivial Java EE 7 sample.
 .. `mvn deploy -P release`
 
 HOTFIX MON GARS !!
+
+HOTFIX NUMERO 2 !!
