@@ -25,3 +25,5 @@ This is a trivial Java EE 7 sample.
 COMMIT 1
 
 COMMIT 2
+
+COMMIT 3
