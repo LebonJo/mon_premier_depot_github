@@ -1,4 +1,4 @@
-A simple YOLO SWAGG SWAGG Java EE 7 Sample
+A simple Java EE 7 Sample
 =========================
 
 This is a trivial Java EE 7 sample.
@@ -22,3 +22,4 @@ This is a trivial Java EE 7 sample.
 .. `mvn versions:set -DnewVersion=2.0`
 .. `mvn deploy -P release`
 
+COMMIT 1
