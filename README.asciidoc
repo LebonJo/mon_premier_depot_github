@@ -23,3 +23,5 @@ This is a trivial Java EE 7 sample.
 .. `mvn deploy -P release`
 
 COMMIT 1
+
+COMMIT 2
